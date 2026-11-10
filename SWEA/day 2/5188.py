@@ -1,4 +1,4 @@
-#https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTtlrlKeDcDFAVT
+# https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTtlrlKeDcDFAVT
 import sys
 from io import StringIO
 
